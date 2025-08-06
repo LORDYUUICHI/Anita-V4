@@ -19,6 +19,33 @@
       "data": "BuTcPylCUOxXnN+tUJq5LSm8sGlBoeYb3JRmiKJxcCU="
     }
   },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "YOWR5GfNjSJtoFu2QYV0HYlpVfIuGsKAdhUdQ2T5tEo="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "neamqgXVDChNmw52kQWTxSyDFKIW8RHOAceD+enLTVM="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "OBuOoVcP1mxr0Ga38qEmoACgn+OoZV3YIfDCuUOex20="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "31kkVVE0+fcYXp7tUr8MUZCEIPtK0bjN7bIPgqfn+iE="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "A6QkOI9dxln/6X+KiVsHDNi2FchLK+uvzi3POwOv0BMa2nCBBpQwxnaXzHQDgSRCTuYbudVRguA2tamoNq4RDA=="
+    },
+    "keyId": 1
+  },
   ...
   "timestamp": "2025-08-06T14:43:31.966Z"
 }
