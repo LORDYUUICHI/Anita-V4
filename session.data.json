@@ -1,0 +1,24 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "aOT+oAmDa9KlH2vdR0K4UuqwD23410BMBLhEsX0L/HM="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "54Y33WoQtFAlKOrQrLxcUFkPJyyiUSrxfnQdnsxvThQ="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "KPJzw6LxmhI7Va/849BVpFZsilyD+AfOxdXCNYezkE0="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "BuTcPylCUOxXnN+tUJq5LSm8sGlBoeYb3JRmiKJxcCU="
+    }
+  },
+  ...
+  "timestamp": "2025-08-06T14:43:31.966Z"
+}
