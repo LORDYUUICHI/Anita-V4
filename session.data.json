@@ -2,47 +2,47 @@
   "noiseKey": {
     "private": {
       "type": "Buffer",
-      "data": "aOT+oAmDa9KlH2vdR0K4UuqwD23410BMBLhEsX0L/HM="
+      "data": "2OzjxY/FxOPkFD1op4mtrlyEOUvBwrP24aJWp6E7p0o="
     },
     "public": {
       "type": "Buffer",
-      "data": "54Y33WoQtFAlKOrQrLxcUFkPJyyiUSrxfnQdnsxvThQ="
+      "data": "mqRYD2m+iXANDyT+ggRadyqeijYoeZNK13Kn/BEmMSY="
     }
   },
   "pairingEphemeralKeyPair": {
     "private": {
       "type": "Buffer",
-      "data": "KPJzw6LxmhI7Va/849BVpFZsilyD+AfOxdXCNYezkE0="
+      "data": ‎"IDbBoqludi+rYOJytj7hA9iJD3ZzZrgC8i3KzhRiwWo="
     },
     "public": {
       "type": "Buffer",
-      "data": "BuTcPylCUOxXnN+tUJq5LSm8sGlBoeYb3JRmiKJxcCU="
+      "data": "8Zp1yGfiNFIsrkxmapNmFaIl4SI8pnVGCL1A9pnrlys="
     }
   },
   "signedIdentityKey": {
     "private": {
       "type": "Buffer",
-      "data": "YOWR5GfNjSJtoFu2QYV0HYlpVfIuGsKAdhUdQ2T5tEo="
+      "data": "8E8s2w8PyFzhlsxquvSvNFvZO0I4A08vLO8Qw5A2s3g="
     },
     "public": {
       "type": "Buffer",
-      "data": "neamqgXVDChNmw52kQWTxSyDFKIW8RHOAceD+enLTVM="
+      "data": "+6i2/9HK+n5yGOhmLA7v84hw4gpeeqD0y9YPzEl2NVE="
     }
   },
   "signedPreKey": {
     "keyPair": {
       "private": {
         "type": "Buffer",
-        "data": "OBuOoVcP1mxr0Ga38qEmoACgn+OoZV3YIfDCuUOex20="
+        "data": "cKR8TXxoezSWMRSNu/L9eyr78DJjRKVrk5GWVPa/alU="
       },
       "public": {
         "type": "Buffer",
-        "data": "31kkVVE0+fcYXp7tUr8MUZCEIPtK0bjN7bIPgqfn+iE="
+        "data": "8y+OUBm5jl/6vkfdHI3M5xHXCLeS1OUvp4coY2uWcBo="
       }
     },
     "signature": {
       "type": "Buffer",
-      "data": "A6QkOI9dxln/6X+KiVsHDNi2FchLK+uvzi3POwOv0BMa2nCBBpQwxnaXzHQDgSRCTuYbudVRguA2tamoNq4RDA=="
+      "data": "tODQvOaBZal11xD+EaI+jFtYeg+JlM8Kgt23YHlG1G7XfJmAizs/OYUcZwUJU94IxVfL22rNpvad/NvaLAG7Ag=="
     },
     "keyId": 1
   },
